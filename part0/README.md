@@ -1,10 +1,9 @@
-0.1: HTML
-0.2: CSS
-0.3: HTML forms
-0.4: New note diagram / Nuevo diagrama de nota
+- **0.1:** HTML
+- **0.2:** CSS
+- **0.3:** HTML forms
 
+- **0.4:** New note diagram / Nuevo diagrama de nota
 ```mermaid
-
     sequenceDiagram
     participant browser
     participant server
@@ -28,10 +27,7 @@
         server-->>browser: {content: '1x1', date: '2024-02-24T20:15:45.304Z'}
         note over browser: Browser execute the event handler and render notes to display
 ```
+- **0.5**: Single page app diagram / Diagrama de aplicación de una sola página
+- **0.6**: New note in Single page app diagram / Nueva nota en diagrama aplicación de una sola página
 
-0.5: Single page app diagram / Diagrama de aplicación de una sola página
-0.6: New note in Single page app diagram / Nueva nota en diagrama aplicación de una sola página
 
-```
-
-```
