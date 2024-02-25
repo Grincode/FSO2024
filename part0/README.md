@@ -30,6 +30,29 @@
         note over browser: Browser execute the event handler and render notes to display
 ```
 - **0.5**: Single page app diagram / Diagrama de aplicación de una sola página
+- 
+```mermaid
+sequenceDiagram
+    participant browser
+    participant server
+
+        browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+        note over server: Server responds with HTTP Status 200 OK
+        server-->browser: HTML-Code
+        browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+        note over server: Server responds with HTTP Status 200 OK
+        server-->browser: main.css
+        browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa.js
+        note over server: Server responds with HTTP Status 200 OK
+        server-->browser: spa.js
+        note over browser: Browser star execute JS-Code
+        browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+        note over server: Server responds with HTTP Status 200 OK
+        server-->browser: JSON File [{"content": "fsdfasdf", "date": "2024-02-24T14:10:42.713Z"},...]
+        note over browser: Browser execute the event handler and render notes to display
+
+```
+ 
 - **0.6**: New note in Single page app diagram / Nueva nota en diagrama aplicación de una sola página
 
 
