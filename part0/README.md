@@ -30,7 +30,7 @@
         note over browser: Browser execute the event handler and render notes to display
 ```
 - **0.5**: Single page app diagram / Diagrama de aplicación de una sola página
-- 
+  
 ```mermaid
 sequenceDiagram
     participant browser
@@ -52,7 +52,19 @@ sequenceDiagram
         note over browser: Browser execute the event handler and render notes to display
 
 ```
- 
-- **0.6**: New note in Single page app diagram / Nueva nota en diagrama aplicación de una sola página
+ - **0.6**: New note in Single page app diagram / Nueva nota en diagrama aplicación de una sola página
+```mermaid
+sequenceDiagram
+    participant browser
+    participant server
+
+        browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+        note over server: Server responds with HTTP Status 201 Created
+        note over server: Server add new note
+        server-->browser: {"message":"note created"}
+        note over browser: Browser execute the event handler and render notes to display
+
+```
+ - 
 
 
