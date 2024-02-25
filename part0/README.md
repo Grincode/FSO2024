@@ -65,6 +65,5 @@ sequenceDiagram
         note over browser: Browser execute the event handler and render notes to display
 
 ```
- - 
 
 
