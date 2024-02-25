@@ -1,8 +1,8 @@
 # Ejercicios 0.1.-0.6.
 
-- **0.1:** HTML
-- **0.2:** CSS
-- **0.3:** HTML forms
+- **0.1:** HTML (online content) :heavy_check_mark:	
+- **0.2:** CSS (online content) :heavy_check_mark:	
+- **0.3:** HTML forms (online content) :heavy_check_mark:	
 
 - **0.4:** New note diagram / Nuevo diagrama de nota
 ```mermaid
