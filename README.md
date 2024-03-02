@@ -8,16 +8,16 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 
 - **Part 0:** Fundamentals of Web apps
 - **Part 1:** Introduction to React
-- **Part 2:** Communicating with server
-- **Part 3:** Programming a server with NodeJS and Express
-- **Part 4:** Testing Express servers, user administration
-- **Part 5:** Testing React apps
-- **Part 6:** State management with Redux
-- **Part 7:** React router, custom hooks, styling app with CSS and webpack
-- **Part 8:** GraphQL
-- **Part 9:** Typescript
-- **Part 10:** React Native
-- **Part 11:** CI/CD
+- <span style="color:grey">**Part 2:** Communicating with server</span>
+- <span style="color:grey">**Part 3:** Programming a server with NodeJS and Express</span>
+- <span style="color:grey">**Part 4:** Testing Express servers, user administration</span>
+- <span style="color:grey">**Part 5:** Testing React apps</span>
+- <span style="color:grey">**Part 6:** State management with Redux</span>
+- <span style="color:grey">**Part 7:** React router, custom hooks, styling app with CSS and webpack</span>
+- <span style="color:grey">**Part 8:** GraphQL</span>
+- <span style="color:grey">**Part 9:** Typescript</span>
+- <span style="color:grey">**Part 10:** React Native</span>
+- <span style="color:grey">**Part 11:** CI/CD</span>
 
 Thanks to University of Helsinki and Houston Inc.
 
