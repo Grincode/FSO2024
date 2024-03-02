@@ -1,6 +1,13 @@
 import { useState } from 'react'
 
 const Statistics = ({ text, value }) => {
+
+  if (value === 0) {
+    return (
+      <p>No feedback given</p>
+    )
+  }
+
   return (
     <div>
       <p>{text} {value}</p>
@@ -11,7 +18,7 @@ const Statistics = ({ text, value }) => {
 const Button = (props) => (
   <button
     style={{
-      marginRight: '5px', // Espaciado entre botones
+      marginRight: '5px',
       backgroundColor: 'black',
       color: 'white',
       border: 'none',
@@ -20,7 +27,7 @@ const Button = (props) => (
       transition: 'background-color 0.3s, color 0.3s',
     }}
     onClick={props.handleClick}
-    onMouseEnter={(e) => e.target.style.backgroundColor = 'red'} // Hover
+    onMouseEnter={(e) => e.target.style.backgroundColor = 'red'}
     onMouseLeave={(e) => e.target.style.backgroundColor = 'black'}
   >
     {props.text}
@@ -58,13 +65,11 @@ const App = () => {
       <Statistics text="good:" value={good} />
       <Statistics text="neutral:" value={neutral} />
       <Statistics text="bad:" value={bad} />
-      <hr width="25%" align="left" />
       <Statistics text="Total:" value={total} />
+      <hr width="25%" align="left" />
       <Statistics text="Average:" value={average} />
       <Statistics text="% Positive:" value={positive} />
     </div>
-
-
   )
 }
 
