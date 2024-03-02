@@ -8,7 +8,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 
 - **Part 0:** Fundamentals of Web apps
 - **Part 1:** Introduction to React
-- <kbd style="background-color: #f0f0f0; padding: 2px 5px;">**Part 2:** Communicating with server</kbd>
+- <kbd style="background-color: #f0f0f0; padding: 1px 3px;">**Part 2:** Communicating with server</kbd>
 - <span style="color:grey">**Part 3:** Programming a server with NodeJS and Express</span>
 - <span style="color:grey">**Part 4:** Testing Express servers, user administration</span>
 - <span style="color:grey">**Part 5:** Testing React apps</span>
