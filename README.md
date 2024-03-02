@@ -1,6 +1,4 @@
-# FullStackOpen
-
-## Full stack open 2024
+# FullStackOpen 2024
 
 Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, CI/CD and Docker in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
