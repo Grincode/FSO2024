@@ -7,11 +7,11 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 ### This is Full Stack -challenge
 
 - **Part 0:** Fundamentals of Web apps :white_check_mark:	
-- **Part 1:** Introduction to React :lock:	
+- :lock:	**Part 1:** Introduction to React :lock:	
 - **Part 2:** Communicating with server :lock:
 - **Part 3:** Programming a server with NodeJS and Express :lock:
 - **Part 4:** Testing Express servers, user administration :lock:
-- *Part 5:** Testing React apps :lock: 
+- **Part 5:** Testing React apps :lock: 
 - **Part 6:** State management with Redux :lock:
 - **Part 7:** React router, custom hooks, styling app with CSS and webpack :lock:
 - **Part 8:** GraphQL :lock:
