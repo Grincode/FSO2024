@@ -2,8 +2,8 @@
 
 ## Ejercicios 1.3.-1.5.
 - 1.3: información del curso, paso 3
-- 1.4: información del curso paso 4
-- 1.5: información del curso paso 5
+- 1.4: información del curso, paso 4
+- 1.5: información del curso, paso 5
 
 ## Ejercicios 1.6.-1.14.
 - 1.6: unicafe, paso 1
