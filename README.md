@@ -5,8 +5,8 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, CI/CD and Docker in o
 ### This is Full Stack -challenge
 
 - :white_check_mark: **Part 0:** Fundamentals of Web apps
-- :gear: **Part 1:** Introduction to React
-- :lock: **Part 2:** Communicating with server
+- :white_check_mark: **Part 1:** Introduction to React
+- :gear:  **Part 2:** Communicating with server
 - :lock: **Part 3:** Programming a server with NodeJS and Express
 - :lock: **Part 4:** Testing Express servers, user administration
 - :lock: **Part 5:** Testing React apps
