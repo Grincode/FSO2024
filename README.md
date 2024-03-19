@@ -2,6 +2,8 @@
 
 Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, CI/CD and Docker in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
+<img src="https://i.ibb.co/qYNrg6D/fullstackopen-cover-purple.png">
+
 ### This is Full Stack -challenge
 
 - :white_check_mark: **Part 0:** Fundamentals of Web apps
@@ -37,3 +39,5 @@ El curso proporciona una visión general de cómo estas tecnologías se integran
 En resumen, Fullstack Open es una excelente opción para aquellos que desean aprender a desarrollar aplicaciones web modernas y obtener una comprensión sólida de las tecnologías más relevantes en el campo del desarrollo full-stack.
 
 Thanks to University of Helsinki and Houston Inc.
+<a href="https://fullstackopen.com/" target="_blank">fullstackopen.com</a>
+
