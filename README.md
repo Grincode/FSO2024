@@ -39,4 +39,4 @@ El curso proporciona una visión general de cómo estas tecnologías se integran
 En resumen, Fullstack Open es una excelente opción para aquellos que desean aprender a desarrollar aplicaciones web modernas y obtener una comprensión sólida de las tecnologías más relevantes en el campo del desarrollo full-stack.
 
 Thanks to University of Helsinki and Houston Inc.
-<url src="https://fullstackopen.com/es/">
+[fullstackopne.com](https://fullstackopen.com/")
