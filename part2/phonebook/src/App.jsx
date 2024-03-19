@@ -12,6 +12,14 @@ const App = () => {
 
   const addPerson = (event) => {
     event.preventDefault()
+
+    // Verificar si el nombre ya está en la lista
+    const isNameExist = persons.some(person => person.name === newName)
+    if (isNameExist) {
+      alert(`${newName} ya está en la agenda telefónica.`)
+      return
+    }
+
     const personObject = {
       name: newName
     }
@@ -31,7 +39,7 @@ const App = () => {
           <button type="submit">add</button>
         </div>
       </form>
-      <div>debug: {newName}</div>
+      <div>debug: {newName}</div>  {/* Debug en pantalla muestra el dato a ingresar  */}
       <h2>Numbers</h2>
       <ul>
         {persons.map(person =>
