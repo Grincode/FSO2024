@@ -36,7 +36,7 @@ const Course = ({ course }) => {
       return sum + part.exercises;
     }, 0);
   
-    return <strong>total of {total} exercises</strong>;
+    return <strong>Total of {total} exercises</strong>;
   };
   
   export default Course;
