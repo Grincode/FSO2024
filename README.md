@@ -40,6 +40,9 @@ En resumen, Fullstack Open es una excelente opción para aquellos que desean apr
 
 :us:
 
+
+The course is designed to be practical and project-oriented, which means that students learn through building real applications. This allows them not only to understand theoretical concepts but also to gain practical experience that they can apply to their own projects.
+
 ## Some of the topics covered in the course include:
 
 - **React:** A JavaScript library for building interactive user interfaces.
@@ -48,10 +51,11 @@ En resumen, Fullstack Open es una excelente opción para aquellos que desean apr
 - **MongoDB:** A document-oriented NoSQL database, widely used in modern web applications.
 - **GraphQL:** A query language and data manipulation language for APIs, offering a more efficient and flexible way to retrieve data from the server.
 - **TypeScript:** A typed superset of JavaScript that adds static typing features to the language.
+
+  
 The course provides an overview of how these technologies integrate to build complete web applications, from frontend to backend. Students will learn how to set up development environments, create frontend components, design and manage databases, implement APIs, among other fundamental aspects of web development.
 
 In summary, Fullstack Open is an excellent option for those who want to learn to develop modern web applications and gain a solid understanding of the most relevant technologies in the field of full-stack development.
-
 
 
 Thanks to University of Helsinki and Houston Inc.
